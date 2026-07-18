@@ -16,7 +16,7 @@ values (102,'Kamal','CSE',3.55,'Rajshahi');
 Insert into Student 
 values (103,'Amina','EEE',3.45,'Dhaka');
 Insert into Student 
-values (104,'Fahim','CSE',3.90,'Khulna');
+values (104,'Fahim','CSE',3.99,'Khulna');
 
 select * from Student;
 
